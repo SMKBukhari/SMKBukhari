@@ -47,3 +47,10 @@
 ### 📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SMKBukhari&show_icons=true&theme=gotham" alt="Syed Muhammad Kaif Bukhari" />
+
+---
+
+### Today's developer quotes
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
