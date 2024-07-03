@@ -41,3 +41,7 @@
 ![C#](https://img.shields.io/badge/Csharp-A8B9CC.svg?style=for-the-badge&logo=Csharp&logoColor=black)
 ![.env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SMKBukhari&show_icons=true&theme=gotham" alt="Syed Muhammad Kaif Bukhari" />
